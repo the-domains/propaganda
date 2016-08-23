@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.3744266163557768
 name: propaganda
+navigation:
+  - name: propaganda
+    url: www.cancuntotal.com.br
+    type: external
 title: O RESULTADO ESTÁ
 description: AQUI!
