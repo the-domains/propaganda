@@ -11,6 +11,9 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.3744266163557768
+author:
+  name: Augusto
+  email: augusto@cancuntotal.com.br
 name: propaganda
 navigation:
   - name: propaganda
