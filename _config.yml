@@ -1,0 +1,14 @@
+layout_spectrum: 0.3744266163557768
+typography_spectrum: 0.8374628331512213
+color:
+  brandStrength: 0.29261753777973354
+  lightness: 0.8541784940753132
+  saturation: 0.7971955062821507
+  rhythmicContrast: 0.6686858015600592
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: propaganda
